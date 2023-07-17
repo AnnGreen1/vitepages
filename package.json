@@ -1,5 +1,5 @@
 {
-  "name": "vitepages",
+  "name": "vitepress-demo-mondaylab",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-beta.5"
+    "vitepress": "1.0.0-alpha.65"
   },
   "pnpm": {
     "peerDependencyRules": {
