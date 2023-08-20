@@ -6,10 +6,10 @@ DEPLOY_BRANCH="gh-pages"
 set -e
 
 # 构建
-npm run build
+npm run docs:build
 
 # 进入生成的构建文件夹
-cd dist
+cd docs/.vitepress/dist
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
